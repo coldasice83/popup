@@ -1,0 +1,9 @@
+{
+  "name": "popup",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "underscore": "~1.8.3",
+    "jasmine-jquery": "~2.1.0"
+  }
+}
